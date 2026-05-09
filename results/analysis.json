@@ -1,0 +1,38 @@
+{
+  "baseline": {
+    "mean_input": 2825.52,
+    "mean_output": 297.08,
+    "total_input": 423828,
+    "total_output": 44562,
+    "n": 150,
+    "mean_bertscore_f1": 0.8314,
+    "cost": 1.939914
+  },
+  "output_compressed": {
+    "mean_input": 2851.52,
+    "mean_output": 231.76666666666668,
+    "total_input": 427728,
+    "total_output": 34765,
+    "n": 150,
+    "mean_bertscore_f1": 0.821,
+    "cost": 1.804659
+  },
+  "input_compressed": {
+    "mean_input": 1661.44,
+    "mean_output": 300.17333333333335,
+    "total_input": 249216,
+    "total_output": 45026,
+    "n": 150,
+    "mean_bertscore_f1": 0.8317,
+    "cost": 1.423038
+  },
+  "both": {
+    "mean_input": 1687.44,
+    "mean_output": 236.69333333333333,
+    "total_input": 253116,
+    "total_output": 35504,
+    "n": 150,
+    "mean_bertscore_f1": 0.8201,
+    "cost": 1.291908
+  }
+}

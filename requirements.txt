@@ -1,0 +1,8 @@
+anthropic
+boto3
+datasets==2.21.0
+huggingface-hub
+pandas
+pyarrow
+spacy
+bert-score==0.3.13
